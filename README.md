@@ -1,7 +1,7 @@
-# 💻 Hey there, I'm [Your Name]!
+# 💻 Hey there, I'm Vikash Kumar!
 
-🎓 I'm currently pursuing **[Your Degree] in Computer Science** at **[Your College/University Name]**, [Location]  
-📍 Batch: [Start Year] - [End Year]  
+🎓 I'm currently pursuing **[B.tech] in Computer Science & Engineering ** at **[Oriental Institute of Science and Technology]**, Bhopal, Madhya Pradesh  
+📍 Batch: 2023 - 2026  
 🌐 GitHub | Developer | Learner | Tech Enthusiast
 
 ---
@@ -9,9 +9,10 @@
 ## 🔍 About Me
 
 - 🔭 I'm interested in **Software Development**, **AI/ML**, **Web Development**, and **Open Source**.
-- 🌱 Currently learning **[Technologies you're learning like React, Node.js, Python, etc.]**.
+- 🌱 Currently learning React, Node.js, Python, etc.**.
 - 👯 I'm looking to collaborate on **cool, impactful projects**, especially in open-source communities.
-- 📫 How to reach me: [Your Email] | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+- 📫 How to reach me: vikash9534422068@gmail.com
+| [LinkedIn](www.linkedin.com/in/vikash-kumar-1a531b326)
 
 ---
 
@@ -19,12 +20,10 @@
 
 **[Your College/University Name]**  
 *Bachelor of Technology (B.Tech) in Computer Science Engineering*  
-[Month, Year] – [Expected Graduation Year]  
-📍 [City, Country]
+[06, 2023] – [2026]  
+📍 [Bhopal,Madhya Pradesh]
 
 **Achievements & Activities:**
-- 🏅 Participated in [Hackathons/Tech Events]
-- 📢 Member of [Clubs/Student Communities]
 - 📄 Completed courses in [Key Subjects or Platforms like Coursera/Udemy/NPTEL]
 
 ---
