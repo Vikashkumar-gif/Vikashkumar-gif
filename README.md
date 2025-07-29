@@ -1,4 +1,4 @@
-![logo](https://github.com/theabhinavraj/theabhinavraj/blob/main/Black%20Minimalist%20Linkedin%20Banner.png)
+![logo]([https://github.com/theabhinavraj/theabhinavraj/blob/main/Black%20Minimalist%20Linkedin%20Banner.png](https://github.com/Vikashkumar-gif/Vikashkumar-gif/blob/main/Vikash%20Black%20Minimalist%20Linkedin%20Banner%20(1).png))
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
